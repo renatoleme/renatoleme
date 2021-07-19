@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @renatoleme
 - 👀 I’m interested in automated deduction
-- 🌱 I’m working with Coq
-- 📫 How to reach me rntreisleme at gmail dot com
+- 👷‍♂️ Currently I’m working with Coq
+- 📫 Contact me via rntreisleme at gmail dot com
 
 <!---
 renatoleme/renatoleme is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

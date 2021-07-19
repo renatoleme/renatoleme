@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @renatoleme
-- 👀 I’m interested in automated deduction
+- 👀 I’m interested in automated deduction and generic programming
 - 👷‍♂️ Currently I’m working with Coq
 - 📫 Contact me via rntreisleme at gmail dot com
 

@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @renatoleme
 - 👀 I’m interested in automated deduction and generic programming
-- 👷‍♂️ Currently I’m working with Coq
+- 👷‍♂️ Currently I’m working with Coq, React and Node.js
 - 📫 Contact me via rntreisleme at gmail dot com
 
 <!---

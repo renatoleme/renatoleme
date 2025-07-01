@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @renatoleme
-- 👀 I’m interested in automated deduction and generic programming
-- 👷‍♂️ Currently I’m working with Coq, React and Node.js
-- 📫 Contact me via rntreisleme at gmail dot com
+- 📫 rntreisleme [at] gmail [dot] com
+
+You can find more about me in: https://renatoleme.github.io/
 
 <!---
 renatoleme/renatoleme is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
